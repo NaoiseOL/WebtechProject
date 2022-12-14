@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+Body{
+    background-color: antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    width:100%;
+    min-height: 200px;
+    line-height: 50px;
+    text-align: center;
+}
+
+#Logo-div{
+    background-color: burlywood;
+    height:50px;
+    width: 10%;
+    float:left;
+    line-height: 50px;
+    margin-top: 0%;
+}
+#Header-div{
+    background-color: burlywood;
+    height:50px;
+    width:90%;
+    float:left;
+    line-height: 50px;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
+#NavBar-div{
+    word-spacing: 5px;
+}
+
+#Footer-div{
+    text-align: left;
+    font-size: smaller;
+}
