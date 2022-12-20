@@ -5,6 +5,7 @@
 
 body{
     background-color: antiquewhite;
+    text-align: Left;
 }
 #Logo-div2{
     background-color: burlywood;
@@ -28,3 +29,15 @@ body{
     font-size: larger;
     word-spacing: 5px;
 }
+#appleLogo-div{
+    background-color: white;
+    text-align: center;
+}
+#Samsunglogo-div{
+    background-color: white;
+    text-align: center;
+}
+#Onepluslogo-div{
+    background-color: white;
+    text-align: center;
+}   
